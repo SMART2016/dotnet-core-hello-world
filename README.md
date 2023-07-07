@@ -7,3 +7,13 @@
 	- feature/*
 	- bugfix/*
 - Merging branches to main or dev keeping the commit history intact
+- Automating Versioning and Release:
+	- https://blog.antosubash.com/posts/automatic-version-and-release
+
+## Install Husky for commit message linting
+- rm -rf .git/hooks
+- dotnet tool install --global Husky
+
+### Adding first git hook
+- dotnet husky add pre-commit -c "echo 'Husky.Net is awesome!'"
+- git add .husky/pre-commit
