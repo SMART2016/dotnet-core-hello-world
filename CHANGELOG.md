@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.2.0"></a>
+## [0.2.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.2.0) (2023-7-7)
+
+### Features
+
+* Changed greeting message ([783f3c8](https://www.github.com/SMART2016/semantic-versioning/commit/783f3c8912d5bcd4535b2787aadda940fe38740b))
+
 <a name="0.1.0"></a>
 ## [0.1.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.1.0) (2023-7-7)
 
