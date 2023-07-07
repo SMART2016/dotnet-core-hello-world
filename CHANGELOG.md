@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.3.0"></a>
+## [0.3.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.3.0) (2023-7-7)
+
+### Features
+
+* Added commit linter configs ([bda7b7f](https://www.github.com/SMART2016/semantic-versioning/commit/bda7b7f3ac58f1cf337349663af0cf0ae1722366))
+
 <a name="0.2.0"></a>
 ## [0.2.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.2.0) (2023-7-7)
 
