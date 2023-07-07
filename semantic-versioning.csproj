@@ -9,7 +9,9 @@
     <Version>0.2.0</Version>
   </PropertyGroup>
 
-  <PropertyGroup Condition=" '$(RunConfiguration)' == 'semantic-versioning' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'semantic-versioning' ">
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Server.IISIntegration" Version="2.2.*" />
     <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="2.2.*" />
@@ -21,5 +23,11 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>Never</CopyToPublishDirectory>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".husky\csx\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".husky\csx\commit-lint.csx" />
   </ItemGroup>
 </Project>
