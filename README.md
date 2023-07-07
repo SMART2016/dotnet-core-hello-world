@@ -17,3 +17,4 @@
 ### Adding first git hook
 - dotnet husky add pre-commit -c "echo 'Husky.Net is awesome!'"
 - git add .husky/pre-commit
+- chmod ug+x .husky/*
