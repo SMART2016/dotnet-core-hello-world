@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.5.0"></a>
+## [0.5.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.5.0) (2023-7-10)
+
+### Features
+
+* again modified greet ([4e5f487](https://www.github.com/SMART2016/semantic-versioning/commit/4e5f48737dc8c0162b85868a58ebff252c5a9a74))
+* Merge branch 'feature/test' ([2459f63](https://www.github.com/SMART2016/semantic-versioning/commit/2459f633c2897d09e341c11f6dcb2ce7ee6aa754))
+
 <a name="0.4.1"></a>
 ## [0.4.1](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.4.1) (2023-7-10)
 
