@@ -6,7 +6,7 @@
     <AssemblyName>semantic-versioning</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>semantic-versioning</PackageId>
-    <Version>0.3.0</Version>
+    <Version>0.4.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'semantic-versioning' ">
