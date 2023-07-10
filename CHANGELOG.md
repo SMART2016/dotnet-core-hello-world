@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.4.1"></a>
+## [0.4.1](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.4.1) (2023-7-10)
+
 <a name="0.4.0"></a>
 ## [0.4.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.4.0) (2023-7-10)
 
