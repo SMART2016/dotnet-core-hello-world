@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.4.0"></a>
+## [0.4.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.4.0) (2023-7-10)
+
+### Features
+
+* Changed console greet message ([698ad6b](https://www.github.com/SMART2016/semantic-versioning/commit/698ad6b7515847a00bbf18e490e8dfe3429fc0c9))
+* removed workflow from project ([827d779](https://www.github.com/SMART2016/semantic-versioning/commit/827d779796ef785266f75cde3f754661d4bdaa91))
+
 <a name="0.3.0"></a>
 ## [0.3.0](https://www.github.com/SMART2016/semantic-versioning/releases/tag/v0.3.0) (2023-7-7)
 
