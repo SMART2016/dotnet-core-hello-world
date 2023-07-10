@@ -26,8 +26,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".husky\csx\" />
+    <Folder Include=".github\" />
+    <Folder Include=".github\workflows\" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".husky\csx\commit-lint.csx" />
+    <None Include=".github\workflows\version-and-release.yml" />
   </ItemGroup>
 </Project>
